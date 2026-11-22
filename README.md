@@ -48,6 +48,33 @@ Always curious, always learning, and always building something new. 🚀
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio,figma" />
 </p>
+
+## 🛠️ Technical Skills & Tools
+
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cs,js,php" />
+</p>
+
+### 🌐 Web Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php" />
+</p>
+
+### 🌱 Currently Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" />
+</p>
+
+### 🗄️ Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma" />
+</p>
+
+### 🤖 AI & Computer Vision
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=opencv" />
+</p>
 <!--
 **sanithudev/sanithudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
