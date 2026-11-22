@@ -1,5 +1,30 @@
-## Hi there 👋
+# Hey there! 👋 I'm Sanithu Rumeth
 
+##Computer Science Undergraduate | Aspiring Software Developer
+
+Welcome to my GitHub! I'm passionate about technology, software development, and exploring new ideas through code. I enjoy learning new technologies, experimenting with different tools, and turning creative ideas into practical projects.
+
+Always curious, always learning, and always building something new. 🚀
+
+## 🙋‍♂️ About Me
+
+- 🎓 Currently pursuing a Bachelor's degree in Computer Science.
+- 💻 Interested in software development and problem-solving.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 🌐 Interested in web development and modern technologies.
+- 🚀 Enjoy building projects and experimenting with new ideas.
+- 📚 Always learning, improving, and developing my technical skills.
+- 🎯 Working towards becoming a skilled software engineer.
+
+
+## 🌱 Currently Learning
+
+- Python Programming
+- Software Engineering Concepts
+- Artificial Intelligence & Machine Learning
+- Web Development
+- Database Management
+- Computer Vision with OpenCV and MediaPipe
 <!--
 **sanithudev/sanithudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
