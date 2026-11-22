@@ -26,29 +26,6 @@ Always curious, always learning, and always building something new. 🚀
 - Database Management
 - Computer Vision with OpenCV and MediaPipe
 
-
-## 🛠️ Technical Skills & Tools
-
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cs,html,css,js" />
-</p>
-
-### 🌐 Web Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-### 🤖 AI & Computer Vision
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=opencv" />
-</p>
-
-### 🗄️ Database & Development Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio,figma" />
-</p>
-
 ## 🛠️ Technical Skills & Tools
 
 ### 💻 Programming Languages
