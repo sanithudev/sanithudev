@@ -74,12 +74,12 @@ A marketplace web application developed as part of my university learning journe
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanithudev&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanithudev&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sanithudev&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🤝 Connect With Me
@@ -87,10 +87,10 @@ A marketplace web application developed as part of my university learning journe
 I'm always interested in learning, sharing ideas, and connecting with people who are passionate about technology and software development.
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/sanithu-rumeth-3146b7398 ">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:sanithurumethjkvs@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
