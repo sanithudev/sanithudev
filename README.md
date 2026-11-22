@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Sanithu Rumeth
 
-##Computer Science Undergraduate | Aspiring Software Developer
+Computer Science Undergraduate | Aspiring Software Developer
 
 Welcome to my GitHub! I'm passionate about technology, software development, and exploring new ideas through code. I enjoy learning new technologies, experimenting with different tools, and turning creative ideas into practical projects.
 
